@@ -1,0 +1,34 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Sensuntepeque",
+				"habitantes": "150,000",
+				"altura": "750 MSNM",
+				"moneda": "$",
+				"codigoTelefononico": "503",
+				"idioma": "Español",
+				"_id": "2",
+				"_nombre": "Cabañas"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "631,000",
+				"altura": "665 MSNM",
+				"moneda": "$",
+				"codigoTelefononico": "503",
+				"idioma": "Español",
+				"_id": "3",
+				"_nombre": "Santa Ana"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

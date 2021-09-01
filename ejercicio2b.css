@@ -1,0 +1,5 @@
+/* ejercicio2b.css   MT17005  */
+pais {background-color:blue;}
+departamento {background-color:red; display:block;} cabecera {color:white; display:inline;} habitantes {color:yellow; display:inline;}
+altura {color:yellow;font-size:1cm; display:inline;} moneda {color: green; display: block;} codigoTelefononico {color: white; display: block;}
+idioma {color: yellow; display: black;}

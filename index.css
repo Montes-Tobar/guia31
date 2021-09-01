@@ -1,0 +1,2 @@
+p[title]:: before {content: attr(title) " - "
+attr(data-ejercicio); color: blue; font-weight: bold;};

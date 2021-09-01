@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/css' href='ejercicio2a.css' ?>
+<!-- ejemplo2.xml  MT17005 -->
+
+<pais nombre="El Salvador">
+
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+
+  <departamento id="2" nombre="Cabañas">
+    <cabecera>Sensuntepeque</cabecera>
+    <habitantes>150,000</habitantes>
+    <altura>750 MSNM</altura>
+    <moneda>$</moneda>
+    <codigoTelefononico>503</codigoTelefononico>
+    <idioma>Español</idioma>
+  </departamento>
+
+</pais>
+

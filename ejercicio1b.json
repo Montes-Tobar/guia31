@@ -1,0 +1,36 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Mayra",
+				"apellido": "Campos",
+				"direccion": "Calle de Los Cerezos, 31",
+				"telefono": "7792-3301",
+				"email": "MCampos21@gmail.com",
+				"website": "MCampos.com",
+				"_id": "2",
+				"_fechaingreso": "2/11/2012"
+			},
+			{
+				"nombre": "Elizabeth",
+				"apellido": "Flores",
+				"direccion": "Calle de Los Robles, 21",
+				"telefono": "7634-2188",
+				"email": "EFlores99@gmail.com",
+				"website": "EFlores.com",
+				"dui": "00192801-3",
+				"isss": "009237493",
+				"afp": "029380289",
+				"_id": "3",
+				"_fechaingreso": "3/11/2012"
+			}
+		]
+	}
+}

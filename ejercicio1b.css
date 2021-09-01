@@ -1,0 +1,5 @@
+/* ejercicio1b.css   MT17005  */
+fichero {background-color:red;}
+ficha {background-color:blue; display:block;} nombre {color:green; display:inline;} apellido {color:yellow; display:inline;}
+direccion {color:white;font-size:1cm; display:inline;} telefono {color:pink; display:block;} email {color:yellow; display:block;}
+website {color:red; display: block} dui {color:green; display:block;} isss {color: red; display: block;} afp {color: white; display: block}
